@@ -1,0 +1,14 @@
+{
+    "name":"Chal Bhai Joke Suna",
+    "version":"0.0.1",
+    "manifest_version":2,
+    "browser_action":{
+        "default_popup":"popup.html",
+        "default_icon":"laughtwo.png"
+    },
+    "icons":{
+        "152":"laughtwo.png"
+    },
+    "permission":["activeTab"]
+
+}
